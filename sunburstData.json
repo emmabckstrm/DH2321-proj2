@@ -1,0 +1,170 @@
+{
+ "name": "root",
+ "continent": "0",
+ "children": [ {
+  "name": "europe",
+  "children": [
+    {
+      "name": "sweden",
+      "children": [
+        {"name": "v108",
+         "children": [
+            {"name": "great", "size": 14},
+            {"name": "quite", "size": 43},
+            {"name": "none", "size": 100},
+            {"name": "not", "size": 50},
+            {"name": "noans", "size": 14},
+            {"name": "dont", "size": 43}
+         ]
+         },
+        {"name": "v110",
+         "children": [
+            {"name": "great", "size": 14},
+            {"name": "quite", "size": 43},
+            {"name": "none", "size": 100},
+            {"name": "not", "size": 50},
+            {"name": "noans", "size": 14},
+            {"name": "dont", "size": 43}
+         ]
+         },
+        {"name": "v113",
+         "children": [
+            {"name": "great", "size": 14},
+            {"name": "quite", "size": 43},
+            {"name": "none", "size": 100},
+            {"name": "not", "size": 50},
+            {"name": "noans", "size": 14},
+            {"name": "dont", "size": 43}
+         ]
+         },
+        {"name": "v114",
+         "children": [
+            {"name": "great", "size": 14},
+            {"name": "quite", "size": 43},
+            {"name": "none", "size": 100},
+            {"name": "not", "size": 50},
+            {"name": "noans", "size": 14},
+            {"name": "dont", "size": 43}
+         ]
+         },
+        {"name": "v115",
+         "children": [
+            {"name": "great", "size": 14},
+            {"name": "quite", "size": 43},
+            {"name": "none", "size": 100},
+            {"name": "not", "size": 50},
+            {"name": "noans", "size": 14},
+            {"name": "dont", "size": 43}
+         ]
+         },
+        {"name": "v121",
+         "children": [
+            {"name": "great", "size": 14},
+            {"name": "quite", "size": 43},
+            {"name": "none", "size": 100},
+            {"name": "not", "size": 50},
+            {"name": "noans", "size": 14},
+            {"name": "dont", "size": 43}
+         ]
+         },
+        {"name": "v122",
+         "children": [
+            {"name": "great", "size": 14},
+            {"name": "quite", "size": 43},
+            {"name": "none", "size": 100},
+            {"name": "not", "size": 50},
+            {"name": "noans", "size": 14},
+            {"name": "dont", "size": 43}
+         ]
+         },
+        {"name": "v123",
+         "children": [
+            {"name": "great", "size": 14},
+            {"name": "quite", "size": 43},
+            {"name": "none", "size": 100},
+            {"name": "not", "size": 50},
+            {"name": "noans", "size": 14},
+            {"name": "dont", "size": 43}
+         ]
+         }
+      ]
+    },
+    {
+      "name": "norway",
+      "children": [
+        {"name": "v108", "size": 100},
+        {"name": "v110", "size": 50},
+        {"name": "v113", "size": 14},
+        {"name": "v114", "size": 43},
+        {"name": "v115", "size": 100},
+        {"name": "v121", "size": 50},
+        {"name": "v122", "size": 14},
+        {"name": "v123", "size": 43}
+      ]
+    }
+  ]
+  },
+  {
+  "name": "asia",
+  "children": [
+    {
+      "name": "japan",
+      "children": [
+        {"name": "v108", "size": 100},
+        {"name": "v110", "size": 50},
+        {"name": "v113", "size": 14},
+        {"name": "v114", "size": 43},
+        {"name": "v115", "size": 100},
+        {"name": "v121", "size": 50},
+        {"name": "v122", "size": 14},
+        {"name": "v123", "size": 43}
+      ]
+    },
+    {
+      "name": "china",
+      "children": [
+        {"name": "v108", "size": 100},
+        {"name": "v110", "size": 50},
+        {"name": "v113", "size": 14},
+        {"name": "v114", "size": 43},
+        {"name": "v115", "size": 100},
+        {"name": "v121", "size": 50},
+        {"name": "v122", "size": 14},
+        {"name": "v123", "size": 43}
+      ]
+    }
+  ]
+  },
+  {
+  "name": "africa",
+  "children": [
+    {
+      "name": "algeria",
+      "children": [
+        {"name": "v108", "size": 100},
+        {"name": "v110", "size": 50},
+        {"name": "v113", "size": 14},
+        {"name": "v114", "size": 43},
+        {"name": "v115", "size": 100},
+        {"name": "v121", "size": 50},
+        {"name": "v122", "size": 14},
+        {"name": "v123", "size": 43}
+      ]
+    },
+    {
+      "name": "somalia",
+      "children": [
+        {"name": "v108", "size": 100},
+        {"name": "v110", "size": 50},
+        {"name": "v113", "size": 14},
+        {"name": "v114", "size": 43},
+        {"name": "v115", "size": 100},
+        {"name": "v121", "size": 50},
+        {"name": "v122", "size": 14},
+        {"name": "v123", "size": 43}
+      ]
+    }
+  ]
+  }
+ ]
+}

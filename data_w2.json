@@ -1,0 +1,7630 @@
+{
+	"name": "root",
+	"children": [
+		{
+			"children": [
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Armenia"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Azerbaijan"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Belarus"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 30.3
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.1
+								},
+								{
+									"name": "None at all",
+									"size": 11.5
+								},
+								{
+									"name": "Not very much",
+									"size": 22.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 35.5
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 5.9
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.4
+								},
+								{
+									"name": "None at all",
+									"size": 20.7
+								},
+								{
+									"name": "Not very much",
+									"size": 44.2
+								},
+								{
+									"name": "Quite a lot",
+									"size": 28.7
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 21.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.1
+								},
+								{
+									"name": "None at all",
+									"size": 10.6
+								},
+								{
+									"name": "Not very much",
+									"size": 24.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 43.7
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 14.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.1
+								},
+								{
+									"name": "None at all",
+									"size": 16.7
+								},
+								{
+									"name": "Not very much",
+									"size": 28.8
+								},
+								{
+									"name": "Quite a lot",
+									"size": 40.1
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 15.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.3
+								},
+								{
+									"name": "None at all",
+									"size": 8.5
+								},
+								{
+									"name": "Not very much",
+									"size": 30
+								},
+								{
+									"name": "Quite a lot",
+									"size": 45.8
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 13.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.5
+								},
+								{
+									"name": "None at all",
+									"size": 17.5
+								},
+								{
+									"name": "Not very much",
+									"size": 37.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 31.2
+								}
+							]
+						}
+					],
+					"name": "Cyprus"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Estonia"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 62.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.3
+								},
+								{
+									"name": "None at all",
+									"size": 1.2
+								},
+								{
+									"name": "Not very much",
+									"size": 4.1
+								},
+								{
+									"name": "Quite a lot",
+									"size": 24.5
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 3.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.5
+								},
+								{
+									"name": "None at all",
+									"size": 14.1
+								},
+								{
+									"name": "Not very much",
+									"size": 51.1
+								},
+								{
+									"name": "Quite a lot",
+									"size": 25.8
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 6.3
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.7
+								},
+								{
+									"name": "None at all",
+									"size": 13
+								},
+								{
+									"name": "Not very much",
+									"size": 36.4
+								},
+								{
+									"name": "Quite a lot",
+									"size": 37.8
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 3.9
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.1
+								},
+								{
+									"name": "None at all",
+									"size": 21.5
+								},
+								{
+									"name": "Not very much",
+									"size": 40
+								},
+								{
+									"name": "Quite a lot",
+									"size": 26.6
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 3.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.1
+								},
+								{
+									"name": "None at all",
+									"size": 9.7
+								},
+								{
+									"name": "Not very much",
+									"size": 33
+								},
+								{
+									"name": "Quite a lot",
+									"size": 31.8
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 3.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.1
+								},
+								{
+									"name": "None at all",
+									"size": 8.8
+								},
+								{
+									"name": "Not very much",
+									"size": 27.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 28.1
+								}
+							]
+						}
+					],
+					"name": "Georgia"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 7.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.2
+								},
+								{
+									"name": "None at all",
+									"size": 22.5
+								},
+								{
+									"name": "Not very much",
+									"size": 36
+								},
+								{
+									"name": "Quite a lot",
+									"size": 27.8
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 2.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.7
+								},
+								{
+									"name": "None at all",
+									"size": 15.4
+								},
+								{
+									"name": "Not very much",
+									"size": 53.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 26.6
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 13.3
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.4
+								},
+								{
+									"name": "None at all",
+									"size": 5
+								},
+								{
+									"name": "Not very much",
+									"size": 20.8
+								},
+								{
+									"name": "Quite a lot",
+									"size": 59.4
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 1.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.7
+								},
+								{
+									"name": "None at all",
+									"size": 23.6
+								},
+								{
+									"name": "Not very much",
+									"size": 50.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 21.2
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 6.9
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.7
+								},
+								{
+									"name": "None at all",
+									"size": 6.6
+								},
+								{
+									"name": "Not very much",
+									"size": 32.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 48.1
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 6.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.9
+								},
+								{
+									"name": "None at all",
+									"size": 8.1
+								},
+								{
+									"name": "Not very much",
+									"size": 29.1
+								},
+								{
+									"name": "Quite a lot",
+									"size": 43.1
+								}
+							]
+						}
+					],
+					"name": "Germany"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 7.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.9
+								},
+								{
+									"name": "None at all",
+									"size": 27.8
+								},
+								{
+									"name": "Not very much",
+									"size": 36
+								},
+								{
+									"name": "Quite a lot",
+									"size": 19.6
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 1.6
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.8
+								},
+								{
+									"name": "None at all",
+									"size": 15.6
+								},
+								{
+									"name": "Not very much",
+									"size": 50.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 30.3
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 5.9
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.2
+								},
+								{
+									"name": "None at all",
+									"size": 6.6
+								},
+								{
+									"name": "Not very much",
+									"size": 33.4
+								},
+								{
+									"name": "Quite a lot",
+									"size": 52.9
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 19.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 4
+								},
+								{
+									"name": "None at all",
+									"size": 12.4
+								},
+								{
+									"name": "Not very much",
+									"size": 31.1
+								},
+								{
+									"name": "Quite a lot",
+									"size": 32.7
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 4.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.9
+								},
+								{
+									"name": "None at all",
+									"size": 8.5
+								},
+								{
+									"name": "Not very much",
+									"size": 33.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 48.5
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 3.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 3.7
+								},
+								{
+									"name": "None at all",
+									"size": 7.9
+								},
+								{
+									"name": "Not very much",
+									"size": 31.1
+								},
+								{
+									"name": "Quite a lot",
+									"size": 35.5
+								}
+							]
+						}
+					],
+					"name": "Netherlands"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 8.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.9
+								},
+								{
+									"name": "None at all",
+									"size": 9.8
+								},
+								{
+									"name": "Not very much",
+									"size": 33.4
+								},
+								{
+									"name": "Quite a lot",
+									"size": 46.4
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 1.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.2
+								},
+								{
+									"name": "None at all",
+									"size": 12.3
+								},
+								{
+									"name": "Not very much",
+									"size": 53.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 31.7
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 12.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.3
+								},
+								{
+									"name": "None at all",
+									"size": 2.5
+								},
+								{
+									"name": "Not very much",
+									"size": 19.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 65.1
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.5
+								},
+								{
+									"name": "None at all",
+									"size": 19.8
+								},
+								{
+									"name": "Not very much",
+									"size": 52
+								},
+								{
+									"name": "Quite a lot",
+									"size": 25.9
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 9.3
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.1
+								},
+								{
+									"name": "None at all",
+									"size": 2.6
+								},
+								{
+									"name": "Not very much",
+									"size": 23.4
+								},
+								{
+									"name": "Quite a lot",
+									"size": 63.7
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 3.9
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 6.8
+								},
+								{
+									"name": "None at all",
+									"size": 8
+								},
+								{
+									"name": "Not very much",
+									"size": 39.3
+								},
+								{
+									"name": "Quite a lot",
+									"size": 42
+								}
+							]
+						}
+					],
+					"name": "Sweden"
+				}
+			],
+			"name": "europe"
+		},
+		{
+			"children": [
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": "24"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": "0.4"
+								},
+								{
+									"name": "None at all",
+									"size": "15.3"
+								},
+								{
+									"name": "Not very much",
+									"size": "28.5"
+								},
+								{
+									"name": "Quite a lot",
+									"size": "30.7"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": "3.7"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": "0.4"
+								},
+								{
+									"name": "None at all",
+									"size": "16.3"
+								},
+								{
+									"name": "Not very much",
+									"size": "45.6"
+								},
+								{
+									"name": "Quite a lot",
+									"size": "31.6"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": "2.3"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": "0.4"
+								},
+								{
+									"name": "None at all",
+									"size": "31"
+								},
+								{
+									"name": "Not very much",
+									"size": "46.7"
+								},
+								{
+									"name": "Quite a lot",
+									"size": "18.8"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": "3.1"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": "1.1"
+								},
+								{
+									"name": "None at all",
+									"size": "18.5"
+								},
+								{
+									"name": "Not very much",
+									"size": "41.9"
+								},
+								{
+									"name": "Quite a lot",
+									"size": "33.8"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": "2.2"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": "0.4"
+								},
+								{
+									"name": "None at all",
+									"size": "29"
+								},
+								{
+									"name": "Not very much",
+									"size": "40.9"
+								},
+								{
+									"name": "Quite a lot",
+									"size": "23.9"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": "6.5"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": "0.6"
+								},
+								{
+									"name": "None at all",
+									"size": "10.4"
+								},
+								{
+									"name": "Not very much",
+									"size": "23"
+								},
+								{
+									"name": "Quite a lot",
+									"size": "48.5"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": "2.7"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": "2"
+								},
+								{
+									"name": "None at all",
+									"size": "18.4"
+								},
+								{
+									"name": "Not very much",
+									"size": "28.4"
+								},
+								{
+									"name": "Quite a lot",
+									"size": "27.9"
+								}
+							]
+						}
+					],
+					"name": "Argentina"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 29.2
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.2
+								},
+								{
+									"name": "None at all",
+									"size": 8.3
+								},
+								{
+									"name": "Not very much",
+									"size": 14.2
+								},
+								{
+									"name": "Quite a lot",
+									"size": 48
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 6.6
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.5
+								},
+								{
+									"name": "None at all",
+									"size": 20.7
+								},
+								{
+									"name": "Not very much",
+									"size": 35.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 36.4
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 7.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.6
+								},
+								{
+									"name": "None at all",
+									"size": 24.3
+								},
+								{
+									"name": "Not very much",
+									"size": 30.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 36.8
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 9.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.7
+								},
+								{
+									"name": "None at all",
+									"size": 21.5
+								},
+								{
+									"name": "Not very much",
+									"size": 31.8
+								},
+								{
+									"name": "Quite a lot",
+									"size": 36.2
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 20.2
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.1
+								},
+								{
+									"name": "None at all",
+									"size": 6.8
+								},
+								{
+									"name": "Not very much",
+									"size": 24.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 46.4
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 18.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.2
+								},
+								{
+									"name": "None at all",
+									"size": 7.7
+								},
+								{
+									"name": "Not very much",
+									"size": 25.3
+								},
+								{
+									"name": "Quite a lot",
+									"size": 46
+								}
+							]
+						}
+					],
+					"name": "Brazil"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 54.2
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 6
+								},
+								{
+									"name": "Not very much",
+									"size": 13.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 25.8
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 8.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 20.6
+								},
+								{
+									"name": "Not very much",
+									"size": 34.4
+								},
+								{
+									"name": "Quite a lot",
+									"size": 35.2
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 15.6
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 20.3
+								},
+								{
+									"name": "Not very much",
+									"size": 29.3
+								},
+								{
+									"name": "Quite a lot",
+									"size": 33.6
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 14.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 19.8
+								},
+								{
+									"name": "Not very much",
+									"size": 28.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 35.8
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 15.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 16.5
+								},
+								{
+									"name": "Not very much",
+									"size": 25.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 34.8
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 10.2
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 22.8
+								},
+								{
+									"name": "Not very much",
+									"size": 27.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 29.1
+								}
+							]
+						}
+					],
+					"name": "Colombia"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 31.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 8.9
+								},
+								{
+									"name": "Not very much",
+									"size": 21.3
+								},
+								{
+									"name": "Quite a lot",
+									"size": 37.6
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 6.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 16.9
+								},
+								{
+									"name": "Not very much",
+									"size": 38.4
+								},
+								{
+									"name": "Quite a lot",
+									"size": 37.7
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 15.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.3
+								},
+								{
+									"name": "None at all",
+									"size": 10.4
+								},
+								{
+									"name": "Not very much",
+									"size": 31.9
+								},
+								{
+									"name": "Quite a lot",
+									"size": 40.6
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 9.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.6
+								},
+								{
+									"name": "None at all",
+									"size": 17.2
+								},
+								{
+									"name": "Not very much",
+									"size": 34.8
+								},
+								{
+									"name": "Quite a lot",
+									"size": 36.1
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 17.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.6
+								},
+								{
+									"name": "None at all",
+									"size": 9.3
+								},
+								{
+									"name": "Not very much",
+									"size": 28.1
+								},
+								{
+									"name": "Quite a lot",
+									"size": 39
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 14.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.9
+								},
+								{
+									"name": "None at all",
+									"size": 9.2
+								},
+								{
+									"name": "Not very much",
+									"size": 28.2
+								},
+								{
+									"name": "Quite a lot",
+									"size": 36.8
+								}
+							]
+						}
+					],
+					"name": "Chile"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Ecuador"
+				}
+			],
+			"name": "south america"
+		},
+		{
+			"children": [
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Algeria"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Egypt"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 68.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.1
+								},
+								{
+									"name": "None at all",
+									"size": 1.1
+								},
+								{
+									"name": "Not very much",
+									"size": 8.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 21.6
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 16.9
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.2
+								},
+								{
+									"name": "None at all",
+									"size": 7.2
+								},
+								{
+									"name": "Not very much",
+									"size": 34.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 37
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 20
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.7
+								},
+								{
+									"name": "None at all",
+									"size": 16.3
+								},
+								{
+									"name": "Not very much",
+									"size": 28.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 34.2
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 29.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.7
+								},
+								{
+									"name": "None at all",
+									"size": 6.2
+								},
+								{
+									"name": "Not very much",
+									"size": 22.3
+								},
+								{
+									"name": "Quite a lot",
+									"size": 41.3
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 20.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 3.4
+								},
+								{
+									"name": "None at all",
+									"size": 6.3
+								},
+								{
+									"name": "Not very much",
+									"size": 28.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 38
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 26
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.7
+								},
+								{
+									"name": "None at all",
+									"size": 5.7
+								},
+								{
+									"name": "Not very much",
+									"size": 25.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 37.7
+								}
+							]
+						}
+					],
+					"name": "Ghana"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Libya"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 66.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.8
+								},
+								{
+									"name": "None at all",
+									"size": 1.5
+								},
+								{
+									"name": "Not very much",
+									"size": 7.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 24.2
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 14.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 11.2
+								},
+								{
+									"name": "None at all",
+									"size": 11.1
+								},
+								{
+									"name": "Not very much",
+									"size": 33.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 29.5
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 25
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 3.1
+								},
+								{
+									"name": "None at all",
+									"size": 11.4
+								},
+								{
+									"name": "Not very much",
+									"size": 26
+								},
+								{
+									"name": "Quite a lot",
+									"size": 34.5
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 10.6
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.9
+								},
+								{
+									"name": "None at all",
+									"size": 20
+								},
+								{
+									"name": "Not very much",
+									"size": 34.2
+								},
+								{
+									"name": "Quite a lot",
+									"size": 33.3
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 20.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 20
+								},
+								{
+									"name": "None at all",
+									"size": 9.2
+								},
+								{
+									"name": "Not very much",
+									"size": 20.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 30.2
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 23.6
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 15.2
+								},
+								{
+									"name": "None at all",
+									"size": 15.3
+								},
+								{
+									"name": "Not very much",
+									"size": 21.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 24.3
+								}
+							]
+						}
+					],
+					"name": "Morocco"
+				}
+			],
+			"name": "africa"
+		},
+		{
+			"children": [
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 6.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.8
+								},
+								{
+									"name": "None at all",
+									"size": 14.7
+								},
+								{
+									"name": "Not very much",
+									"size": 45.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 31.3
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0.6
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.4
+								},
+								{
+									"name": "None at all",
+									"size": 22.1
+								},
+								{
+									"name": "Not very much",
+									"size": 65.2
+								},
+								{
+									"name": "Quite a lot",
+									"size": 10.7
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 24.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.4
+								},
+								{
+									"name": "None at all",
+									"size": 2.5
+								},
+								{
+									"name": "Not very much",
+									"size": 14.1
+								},
+								{
+									"name": "Quite a lot",
+									"size": 57.2
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 5.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.8
+								},
+								{
+									"name": "None at all",
+									"size": 13.7
+								},
+								{
+									"name": "Not very much",
+									"size": 45.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 33.2
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 7.3
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.8
+								},
+								{
+									"name": "None at all",
+									"size": 5.3
+								},
+								{
+									"name": "Not very much",
+									"size": 34.9
+								},
+								{
+									"name": "Quite a lot",
+									"size": 50.7
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 8.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.7
+								},
+								{
+									"name": "None at all",
+									"size": 4.9
+								},
+								{
+									"name": "Not very much",
+									"size": 32.9
+								},
+								{
+									"name": "Quite a lot",
+									"size": 51.3
+								}
+							]
+						}
+					],
+					"name": "Australia"
+				}
+			],
+			"name": "oceania"
+		},
+		{
+			"children": [
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Bahrain"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 5.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.4
+								},
+								{
+									"name": "None at all",
+									"size": 13.4
+								},
+								{
+									"name": "Not very much",
+									"size": 22.9
+								},
+								{
+									"name": "Quite a lot",
+									"size": 19
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 13.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.3
+								},
+								{
+									"name": "None at all",
+									"size": 3.9
+								},
+								{
+									"name": "Not very much",
+									"size": 20.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 46.5
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 20.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.2
+								},
+								{
+									"name": "None at all",
+									"size": 2.9
+								},
+								{
+									"name": "Not very much",
+									"size": 17.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 53.7
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 37.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.2
+								},
+								{
+									"name": "None at all",
+									"size": 1.1
+								},
+								{
+									"name": "Not very much",
+									"size": 6.1
+								},
+								{
+									"name": "Quite a lot",
+									"size": 50.1
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 12.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.3
+								},
+								{
+									"name": "None at all",
+									"size": 2.1
+								},
+								{
+									"name": "Not very much",
+									"size": 12.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 44.6
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 15.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.3
+								},
+								{
+									"name": "None at all",
+									"size": 1.3
+								},
+								{
+									"name": "Not very much",
+									"size": 9.9
+								},
+								{
+									"name": "Quite a lot",
+									"size": 45.9
+								}
+							]
+						}
+					],
+					"name": "China"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Hong Kong"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "HongKong"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 48.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.9
+								},
+								{
+									"name": "None at all",
+									"size": 4
+								},
+								{
+									"name": "Not very much",
+									"size": 10.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 26
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 6.2
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.8
+								},
+								{
+									"name": "None at all",
+									"size": 1.3
+								},
+								{
+									"name": "Not very much",
+									"size": 37.2
+								},
+								{
+									"name": "Quite a lot",
+									"size": 53.6
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 11.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1
+								},
+								{
+									"name": "None at all",
+									"size": 0.9
+								},
+								{
+									"name": "Not very much",
+									"size": 16.1
+								},
+								{
+									"name": "Quite a lot",
+									"size": 70.7
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 5.2
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 3
+								},
+								{
+									"name": "None at all",
+									"size": 3.5
+								},
+								{
+									"name": "Not very much",
+									"size": 38.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 49.8
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 7.2
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.7
+								},
+								{
+									"name": "None at all",
+									"size": 1.3
+								},
+								{
+									"name": "Not very much",
+									"size": 20
+								},
+								{
+									"name": "Quite a lot",
+									"size": 68.8
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 4.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 6.6
+								},
+								{
+									"name": "None at all",
+									"size": 1.4
+								},
+								{
+									"name": "Not very much",
+									"size": 21.8
+								},
+								{
+									"name": "Quite a lot",
+									"size": 65.5
+								}
+							]
+						}
+					],
+					"name": "India"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 45.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 1.6
+								},
+								{
+									"name": "None at all",
+									"size": 2.9
+								},
+								{
+									"name": "Not very much",
+									"size": 14.9
+								},
+								{
+									"name": "Quite a lot",
+									"size": 29.5
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 30.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.9
+								},
+								{
+									"name": "None at all",
+									"size": 4.5
+								},
+								{
+									"name": "Not very much",
+									"size": 15.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 32.9
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 24.6
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.9
+								},
+								{
+									"name": "None at all",
+									"size": 11.9
+								},
+								{
+									"name": "Not very much",
+									"size": 19.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 31.5
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 18
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.9
+								},
+								{
+									"name": "None at all",
+									"size": 11.7
+								},
+								{
+									"name": "Not very much",
+									"size": 24.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 26
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 18.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 3
+								},
+								{
+									"name": "None at all",
+									"size": 6.8
+								},
+								{
+									"name": "Not very much",
+									"size": 17.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 19.9
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 19.9
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.9
+								},
+								{
+									"name": "None at all",
+									"size": 5.6
+								},
+								{
+									"name": "Not very much",
+									"size": 17
+								},
+								{
+									"name": "Quite a lot",
+									"size": 21.5
+								}
+							]
+						}
+					],
+					"name": "Iraq"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 1.6
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 5.7
+								},
+								{
+									"name": "None at all",
+									"size": 46.6
+								},
+								{
+									"name": "Not very much",
+									"size": 39.4
+								},
+								{
+									"name": "Quite a lot",
+									"size": 6.8
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 7.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.8
+								},
+								{
+									"name": "None at all",
+									"size": 1.9
+								},
+								{
+									"name": "Not very much",
+									"size": 22.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 65.1
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 8.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.6
+								},
+								{
+									"name": "None at all",
+									"size": 4.4
+								},
+								{
+									"name": "Not very much",
+									"size": 27.8
+								},
+								{
+									"name": "Quite a lot",
+									"size": 56.8
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 29.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.6
+								},
+								{
+									"name": "None at all",
+									"size": 21.8
+								},
+								{
+									"name": "Not very much",
+									"size": 14.2
+								},
+								{
+									"name": "Quite a lot",
+									"size": 27.5
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 4.2
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 12
+								},
+								{
+									"name": "None at all",
+									"size": 5.3
+								},
+								{
+									"name": "Not very much",
+									"size": 32.7
+								},
+								{
+									"name": "Quite a lot",
+									"size": 45.9
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 1.9
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 18.8
+								},
+								{
+									"name": "None at all",
+									"size": 8.4
+								},
+								{
+									"name": "Not very much",
+									"size": 40.3
+								},
+								{
+									"name": "Quite a lot",
+									"size": 30.6
+								}
+							]
+						}
+					],
+					"name": "Japan"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 69.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 2.4
+								},
+								{
+									"name": "None at all",
+									"size": 0.9
+								},
+								{
+									"name": "Not very much",
+									"size": 4.9
+								},
+								{
+									"name": "Quite a lot",
+									"size": 22
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 31.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 3.9
+								},
+								{
+									"name": "None at all",
+									"size": 8.1
+								},
+								{
+									"name": "Not very much",
+									"size": 21.9
+								},
+								{
+									"name": "Quite a lot",
+									"size": 34.6
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 61.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 3.4
+								},
+								{
+									"name": "None at all",
+									"size": 1.8
+								},
+								{
+									"name": "Not very much",
+									"size": 5.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 27.7
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 1.5
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 6.2
+								},
+								{
+									"name": "None at all",
+									"size": 17.6
+								},
+								{
+									"name": "Not very much",
+									"size": 47.1
+								},
+								{
+									"name": "Quite a lot",
+									"size": 27.6
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 28.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 18
+								},
+								{
+									"name": "None at all",
+									"size": 6.6
+								},
+								{
+									"name": "Not very much",
+									"size": 19
+								},
+								{
+									"name": "Quite a lot",
+									"size": 28.3
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 23.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 16.6
+								},
+								{
+									"name": "None at all",
+									"size": 9
+								},
+								{
+									"name": "Not very much",
+									"size": 20
+								},
+								{
+									"name": "Quite a lot",
+									"size": 30.6
+								}
+							]
+						}
+					],
+					"name": "Jordan"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Kazakhstan"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Kuwait"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal"
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer"
+								},
+								{
+									"name": "None at all"
+								},
+								{
+									"name": "Not very much"
+								},
+								{
+									"name": "Quite a lot"
+								}
+							]
+						}
+					],
+					"name": "Lebanon"
+				},
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 54.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0.7
+								},
+								{
+									"name": "Not very much",
+									"size": 8.5
+								},
+								{
+									"name": "Quite a lot",
+									"size": 36.5
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 13.3
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 2.4
+								},
+								{
+									"name": "Not very much",
+									"size": 33.9
+								},
+								{
+									"name": "Quite a lot",
+									"size": 50.4
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 20.9
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 4.6
+								},
+								{
+									"name": "Not very much",
+									"size": 20.8
+								},
+								{
+									"name": "Quite a lot",
+									"size": 53.7
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 57.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 4.6
+								},
+								{
+									"name": "None at all",
+									"size": 3.8
+								},
+								{
+									"name": "Not very much",
+									"size": 8.8
+								},
+								{
+									"name": "Quite a lot",
+									"size": 25.7
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 11.6
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.1
+								},
+								{
+									"name": "None at all",
+									"size": 4.3
+								},
+								{
+									"name": "Not very much",
+									"size": 28.9
+								},
+								{
+									"name": "Quite a lot",
+									"size": 55
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 13.8
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.1
+								},
+								{
+									"name": "None at all",
+									"size": 5.4
+								},
+								{
+									"name": "Not very much",
+									"size": 24.6
+								},
+								{
+									"name": "Quite a lot",
+									"size": 56
+								}
+							]
+						}
+					],
+					"name": "Malaysia"
+				}
+			],
+			"name": "asia"
+		},
+		{
+			"children": [
+				{
+					"children": [
+						{
+							"name": "v108",
+							"title": "Confidence in churches",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 38.3
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.2
+								},
+								{
+									"name": "None at all",
+									"size": 9.3
+								},
+								{
+									"name": "Not very much",
+									"size": 20.3
+								},
+								{
+									"name": "Quite a lot",
+									"size": 31.7
+								}
+							]
+						},
+						{
+							"name": "v110",
+							"title": "Confidence in the press",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 11.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.8
+								},
+								{
+									"name": "None at all",
+									"size": 18.1
+								},
+								{
+									"name": "Not very much",
+									"size": 30.8
+								},
+								{
+									"name": "Quite a lot",
+									"size": 37.4
+								}
+							]
+						},
+						{
+							"name": "v113",
+							"title": "Confidence in the police",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 6.3
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.5
+								},
+								{
+									"name": "None at all",
+									"size": 30.4
+								},
+								{
+									"name": "Not very much",
+									"size": 35.1
+								},
+								{
+									"name": "Quite a lot",
+									"size": 26.8
+								}
+							]
+						},
+						{
+							"name": "v114",
+							"title": "Confidence in the courts",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v115",
+							"title": "Confidence in the government",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 29.7
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 3.3
+								},
+								{
+									"name": "Not very much",
+									"size": 21.2
+								},
+								{
+									"name": "Quite a lot",
+									"size": 45.7
+								}
+							]
+						},
+						{
+							"name": "v121",
+							"title": "Confidence in banks",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 0
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0
+								},
+								{
+									"name": "None at all",
+									"size": 0
+								},
+								{
+									"name": "Not very much",
+									"size": 0
+								},
+								{
+									"name": "Quite a lot",
+									"size": 0
+								}
+							]
+						},
+						{
+							"name": "v122",
+							"title": "Confidence in environmental organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 19.1
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.4
+								},
+								{
+									"name": "None at all",
+									"size": 11.7
+								},
+								{
+									"name": "Not very much",
+									"size": 24.9
+								},
+								{
+									"name": "Quite a lot",
+									"size": 42.6
+								}
+							]
+						},
+						{
+							"name": "v123",
+							"title": "Confidence in women's organisations",
+							"children": [
+								{
+									"name": "A great deal",
+									"size": 22.4
+								},
+								{
+									"name": "Don't know",
+									"size": 0
+								},
+								{
+									"name": "No answer",
+									"size": 0.8
+								},
+								{
+									"name": "None at all",
+									"size": 11.2
+								},
+								{
+									"name": "Not very much",
+									"size": 23.4
+								},
+								{
+									"name": "Quite a lot",
+									"size": 40.6
+								}
+							]
+						}
+					],
+					"name": "Mexico"
+				}
+			],
+			"name": "north america"
+		}
+	]
+}

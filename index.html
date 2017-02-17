@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+  <title>IVIS17 - Project 2</title>
+  <script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+    crossorigin="anonymous"></script>
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <script src="data.js" type="text/javascript"></script>
+  <script src="functions.js" type="text/javascript"></script>
+
+  <style type="text/css">
+  </style>
+</head>
+<body>
+  <h1>IVIS17 - Project 2</h1>
+  <button onclick="updateChart('data_w1.json')">2014 - 2010</button>
+  <button onclick="updateChart('data_w2.json')">2009 - 2005</button>
+  <button onclick="updateChart('data_w3.json')">2004 - 1999</button>
+  <button onclick="updateChart('data_w4.json')">1998 - 1995</button>
+  <div id="sequence"></div>
+  <div id="chart"></div>
+
+<form>
+  <label><input type="radio" name="mode" value="size"> Size</label>
+  <label><input type="radio" name="mode" value="count" checked> Count</label>
+</form>
+<script type="text/javascript" src="sunburst.js" ></script>
+
+<div id="output"></div>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
