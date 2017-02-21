@@ -1,5 +1,5 @@
 
-var width = 700,
+var width = 800,
     height = 700,
     radius = Math.min(width, height) / 2;
 
@@ -13,7 +13,7 @@ var color = d3.scale.category20c();
 
 // Breadcrumb dimensions: width, height, spacing, width of tip/tail.
 var b = {
-  w: 125, h: 30, s: 3, t: 10
+  w: 160, h: 30, s: 3, t: 10
 };
 
 
@@ -42,7 +42,7 @@ function initChart(wave) {
   chartOn = true;
   svg = d3.select("#chart").append("svg")
     .attr("width", width)
-    .attr("height", height)
+    .attr("height", height+20)
   .append("g")
     .attr("transform", "translate(" + width / 2 + "," + (height / 2 + 10) + ")");
 
@@ -86,17 +86,19 @@ var node;
         .on("mouseover", mouseover);;
 
     d3.selectAll("input").on("change", function change() {
-      var value = this.value === "count"  // if statement
-          ? function() { return 1; }    // if true
-          : function(d) {               // else
-            console.log(d.size);
-            return d.size; };
+      // var value = this.value === "count"  // if statement
+      //     ? function() { return 1; }    // if true
+      //     : function(d) {               // else
+      //       console.log(d.size);
+      //       return d.size; };
 
-      path
-          .data(partition.value(value).nodes)
-        .transition()
-          .duration(1000)
-          .attrTween("d", arcTweenData);
+      // path
+      //     .data(partition.value(value).nodes)
+      //   .transition()
+      //     .duration(1000)
+      //     .attrTween("d", arcTweenData);
+
+      updateChart(this.value);
     });
 
     function click(d) {
@@ -209,7 +211,7 @@ function initializeBreadcrumbTrail() {
   // Add the svg area.
   var trail = d3.select("#sequence").append("svg:svg")
       .attr("width", width)
-      .attr("height", 50)
+      .attr("height", 30)
       .attr("id", "trail");
   // Add the label at the end, for the percentage.
   trail.append("svg:text")
@@ -220,7 +222,7 @@ function initializeBreadcrumbTrail() {
 // Generate a string that describes the points of a breadcrumb polygon.
 function breadcrumbPoints(d, i) {
   var points = [];
-  //console.log(b);
+  //console.log(b, d);
   points.push("0,0");
   points.push(b.w + ",0");
   points.push(b.w + b.t + "," + (b.h / 2));
@@ -244,7 +246,7 @@ function updateBreadcrumbs(nodeArray, percentageString) {
 
   entering.append("svg:polygon")
       .attr("points", breadcrumbPoints)
-      .style("fill", function(d) { return color("blue"); });
+      .style("fill", function(d) { return color(d.name); });
 
   entering.append("svg:text")
       .attr("x", (b.w + b.t) / 2)
@@ -252,7 +254,28 @@ function updateBreadcrumbs(nodeArray, percentageString) {
       .attr("dy", "0.35em")
       .attr("text-anchor", "middle")
       .text(function(d) { 
-        return d.name; 
+        if (d.depth === 3) {
+          var str = "Conf. in ";
+          if (d.name === "v108") {
+            return str += "churches"
+          } else if (d.name === "v110") {
+            return str += "the press"
+          } else if (d.name === "v113") {
+            return str += "the police"
+          } else if (d.name === "v114") {
+            return str += "the courts"
+          } else if (d.name === "v115") {
+            return str += "the government"
+          } else if (d.name === "v121") {
+            return str += "banks"
+          } else if (d.name === "v122") {
+            return str += "environmental org."
+          } else if (d.name === "v123") {
+            return str += "womens org."
+          }
+        } else {
+          return d.name; 
+        }
       }); // output in breadcrumbs
 
   // Set position for entering and updating nodes.
@@ -280,3 +303,5 @@ function updateBreadcrumbs(nodeArray, percentageString) {
       .style("visibility", "");
 
 }
+
+updateChart('data/data_w1.json');

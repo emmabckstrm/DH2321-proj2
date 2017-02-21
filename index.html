@@ -6,26 +6,50 @@
   integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
     crossorigin="anonymous"></script>
   <script src="https://d3js.org/d3.v3.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="style.css">
-  <script src="data.js" type="text/javascript"></script>
+  
   <script src="functions.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
 
-  <style type="text/css">
-  </style>
 </head>
-<body>
-  <h1>IVIS17 - Project 2</h1>
-  <button onclick="updateChart('data_w1.json')">2014 - 2010</button>
-  <button onclick="updateChart('data_w2.json')">2009 - 2005</button>
-  <button onclick="updateChart('data_w3.json')">2004 - 1999</button>
-  <button onclick="updateChart('data_w4.json')">1998 - 1995</button>
-  <div id="sequence"></div>
-  <div id="chart"></div>
+<body class="container-fluid">
+  <h1 class="text-center">IVIS17 - Project 2</h1>
+  <section class="viz text-center row">
+    <h2>Visualization</h2>
+    <form class="wave-form">
+      <input id="w1" type="radio" name="mode" value="data/data_w1.json" checked> 
+      <label for="w1" class="radio-inline btn btn-success">2014 - 2010</label>
 
-<form>
-  <label><input type="radio" name="mode" value="size"> Size</label>
-  <label><input type="radio" name="mode" value="count" checked> Count</label>
-</form>
+      <input id="w2" type="radio" name="mode" value="data/data_w2.json"> 
+      <label for="w2" class="radio-inline btn btn-success">2009 - 2005</label>
+
+      <input id="w3" type="radio" name="mode" value="data/data_w3.json"> 
+      <label for="w3" class="radio-inline btn btn-success">2004 - 1999</label>
+
+      <input id="w4" type="radio" name="mode" value="data/data_w4.json"> 
+      <label for="w4" class="radio-inline btn btn-success">1998 - 1995</label>
+    </form>
+    <div id="chart"></div>
+    <div id="sequence"></div>
+    
+  </section>
+  <section class="analytic row">
+    <div class="col-md-8 col-md-offset-2">
+      <h2 class="text-center ">Analytic trail</h2>
+      <h3>Research question</h3>
+      <p class="lead">Is there a relation between people's confidence in different social installments and their confidence in environmental and women's organisations?</p>
+      <h3>Analytic trail #1</h3>
+      <p>The first part of the WVS is selecting the countries, which is a tedious and a cluttered task.</p>
+      <img src="img/wvs1.png"/>
+      <p>The same goes for selecting the values you want to view. Either you scroll through hundreds of values or you know exactly which one you would like to look at.</p> 
+      <img src="img/wvs2.png"/>
+      <p>The biggest issue is that you can't choose multiple values at once, you have to choose one at a time. This means that when comparing multiple values, you have to repeat the same choosing procedure multiple times, and repeat it again for another time wave.</p> 
+      
+      <h3>Analytic trail #2</h3>
+    </div>
+  </section>
+
+
 <script type="text/javascript" src="sunburst.js" ></script>
 
 <div id="output"></div>

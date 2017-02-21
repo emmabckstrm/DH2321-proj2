@@ -1,14 +1,40 @@
 body {
 	width: 100%;
 	height: 100%;
+	position: relative;
 	font-size: 11pt;
 	font-family: sans-serif;
+}
+
+.viz {
+	min-height: 100%;
+	padding-bottom: 100px;
 }
 
 #chart {
 	display: inline-block;
 }
+#sequence { margin: 20px auto 0;}
 .hover, path { cursor: pointer; }
+
+.wave-form {
+	margin: 20px;
+}
+.wave-form input { visibility: hidden;}
+
+input[type=radio]:checked + label {
+	color: #fff;
+	  background-color: #449d44;
+	  border-color: #398439;
+}
+
+.analytic { text-align: center}
+.analytic p, .analytic h3 { text-align: left;}
+.analytic img {
+	width: 80%;
+	margin: 10px auto;
+	display: inline-block;
+}
 
 /*
 path.v108 { fill: #FA8072 !important;}

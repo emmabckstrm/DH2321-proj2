@@ -159,66 +159,69 @@ var alternativesId = [
 ]
 
 
+function getTheJSON(file) {
+  $.getJSON(file, function(data) {
+      //console.log("HELLO", data);
 
-$.getJSON("w9598.json", function(data) {
-    //console.log("HELLO", data);
-
-    var newData = {
-      "name": "root",
-      "children": []
-    }
-
-    for (var i = 0; i<continentsCountries.length; i++) {  // each continent
-      var newContinent = {
-        "children": [],
-        "name": continentsCountries[i].name
+      var newData = {
+        "name": "root",
+        "children": []
       }
 
-      for (var j=0; j<continentsCountries[i].countries.length; j++) { // each country in each contient
-        var newCountry = { 
+      for (var i = 0; i<continentsCountries.length; i++) {  // each continent
+        var newContinent = {
           "children": [],
-          "name": continentsCountries[i].countries[j]
-         }
-
-        for (var k=0; k<values.length; k++) { // for each value
-          var newValue = {
-            "name": values[k].id,
-            //"id": values[k].id,
-            "title": values[k].title,
-            "children": []
-          }
-
-          for (var l=0; l<alternatives.length; l++) { // for each answer alternative
-            var newAlt = {
-              "name": String(alternatives[l]),
-              //"id": alternativesId[l],
-              //"title": alternatives[l],
-              "size": 1
-            }
-            //find correct size
-            try {
-                var size = data[values[k].id][alternatives[l]][continentsCountries[i].countries[j]];
-                newAlt.size = size;
-            }
-            catch(err) {
-                newAlt.size = 0;
-            }
-
-            // push alternatives to value
-            newValue.children.push(newAlt);
-          }
-          // push value to country
-          newCountry.children.push(newValue);
+          "name": continentsCountries[i].name
         }
-        // push the country to the contitnent
-        newContinent.children.push(newCountry); 
-      }
-    newData.children.push(newContinent);
-    }
 
-    //console.log("FINISHED:",newData);
-    //document.getElementById("output").innerHTML = JSON.stringify(newData);
-});
+        for (var j=0; j<continentsCountries[i].countries.length; j++) { // each country in each contient
+          var newCountry = { 
+            "children": [],
+            "name": continentsCountries[i].countries[j]
+           }
+
+          for (var k=0; k<values.length; k++) { // for each value
+            var newValue = {
+              "name": values[k].id,
+              //"id": values[k].id,
+              "title": values[k].title,
+              "children": []
+            }
+
+            for (var l=0; l<alternatives.length; l++) { // for each answer alternative
+              var newAlt = {
+                "name": String(alternatives[l]),
+                //"id": alternativesId[l],
+                //"title": alternatives[l],
+                "size": 1
+              }
+              //find correct size
+              try {
+                  var size = data[values[k].id][alternatives[l]][continentsCountries[i].countries[j]];
+                  newAlt.size = size;
+              }
+              catch(err) {
+                  newAlt.size = 0;
+              }
+
+              // push alternatives to value
+              newValue.children.push(newAlt);
+            }
+            // push value to country
+            newCountry.children.push(newValue);
+          }
+          // push the country to the contitnent
+          newContinent.children.push(newCountry); 
+        }
+      newData.children.push(newContinent);
+      }
+
+      //console.log("FINISHED:",newData);
+      //document.getElementById("output").innerHTML = JSON.stringify(newData);
+  });
+}
+//getTheJSON("w9598.json");
+
 
 
 
