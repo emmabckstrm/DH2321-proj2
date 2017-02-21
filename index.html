@@ -13,9 +13,10 @@
 
 </head>
 <body class="container-fluid">
-  <h1 class="text-center">IVIS17 - Project 2</h1>
+  <h2 class="text-center">IVIS17 - Project 2</h2>
   <section class="viz text-center row">
-    <h2>Visualization</h2>
+    <div id="sequence"></div>
+    <div id="chart"></div>
     <form class="wave-form">
       <input id="w1" type="radio" name="mode" value="data/data_w1.json" checked> 
       <label for="w1" class="radio-inline btn btn-success">2014 - 2010</label>
@@ -29,8 +30,7 @@
       <input id="w4" type="radio" name="mode" value="data/data_w4.json"> 
       <label for="w4" class="radio-inline btn btn-success">1998 - 1995</label>
     </form>
-    <div id="chart"></div>
-    <div id="sequence"></div>
+    
     
   </section>
   <section class="analytic row">
@@ -46,6 +46,9 @@
       <p>The biggest issue is that you can't choose multiple values at once, you have to choose one at a time. This means that when comparing multiple values, you have to repeat the same choosing procedure multiple times, and repeat it again for another time wave.</p> 
       
       <h3>Analytic trail #2</h3>
+      <p>The goal of my visualization is to be able to get an overview and quickly
+      <h3>Learning</h3>
+      <p>I have learnt more about using d3, I've combined two examples; Kerry Rodden's <a href="https://bl.ocks.org/kerryrodden/477c1bfb081b783f80ad" target="_blank">Zoomable sunburst</a> and <a href="https://bl.ocks.org/kerryrodden/7090426" target="_blank">Sequences sunburst</a>. 
     </div>
   </section>
 
